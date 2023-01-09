@@ -1,0 +1,46 @@
+C:\Users\Dragi\source\repos\Brick Breaker\bin\Debug\Brick Breaker.exe.config
+C:\Users\Dragi\source\repos\Brick Breaker\bin\Debug\Brick Breaker.exe
+C:\Users\Dragi\source\repos\Brick Breaker\bin\Debug\Brick Breaker.pdb
+C:\Users\Dragi\source\repos\Brick Breaker\obj\Debug\Brick Breaker.csprojAssemblyReference.cache
+C:\Users\Dragi\source\repos\Brick Breaker\obj\Debug\MainWindow.g.cs
+C:\Users\Dragi\source\repos\Brick Breaker\obj\Debug\App.g.cs
+C:\Users\Dragi\source\repos\Brick Breaker\obj\Debug\Brick Breaker_MarkupCompile.cache
+C:\Users\Dragi\source\repos\Brick Breaker\obj\Debug\Brick Breaker_MarkupCompile.lref
+C:\Users\Dragi\source\repos\Brick Breaker\obj\Debug\MainWindow.baml
+C:\Users\Dragi\source\repos\Brick Breaker\obj\Debug\Brick Breaker.g.resources
+C:\Users\Dragi\source\repos\Brick Breaker\obj\Debug\Brick_Breaker.Properties.Resources.resources
+C:\Users\Dragi\source\repos\Brick Breaker\obj\Debug\Brick Breaker.csproj.GenerateResource.cache
+C:\Users\Dragi\source\repos\Brick Breaker\obj\Debug\Brick Breaker.exe
+C:\Users\Dragi\source\repos\Brick Breaker\obj\Debug\Brick Breaker.pdb
+E:\balsa\faks\ostalo\Brick Breaker\bin\Debug\Brick Breaker.exe.config
+E:\balsa\faks\ostalo\Brick Breaker\bin\Debug\Brick Breaker.exe
+E:\balsa\faks\ostalo\Brick Breaker\bin\Debug\Brick Breaker.pdb
+E:\balsa\faks\ostalo\Brick Breaker\obj\Debug\Brick Breaker.csproj.AssemblyReference.cache
+E:\balsa\faks\ostalo\Brick Breaker\obj\Debug\Brick Breaker.csproj.SuggestedBindingRedirects.cache
+E:\balsa\faks\ostalo\Brick Breaker\obj\Debug\MainWindow.g.cs
+E:\balsa\faks\ostalo\Brick Breaker\obj\Debug\App.g.cs
+E:\balsa\faks\ostalo\Brick Breaker\obj\Debug\Brick Breaker_MarkupCompile.cache
+E:\balsa\faks\ostalo\Brick Breaker\obj\Debug\Brick Breaker_MarkupCompile.lref
+E:\balsa\faks\ostalo\Brick Breaker\obj\Debug\MainWindow.baml
+E:\balsa\faks\ostalo\Brick Breaker\obj\Debug\Brick Breaker.g.resources
+E:\balsa\faks\ostalo\Brick Breaker\obj\Debug\Brick_Breaker.Properties.Resources.resources
+E:\balsa\faks\ostalo\Brick Breaker\obj\Debug\Brick Breaker.csproj.GenerateResource.cache
+E:\balsa\faks\ostalo\Brick Breaker\obj\Debug\Brick Breaker.csproj.CoreCompileInputs.cache
+E:\balsa\faks\ostalo\Brick Breaker\obj\Debug\Brick Breaker.exe
+E:\balsa\faks\ostalo\Brick Breaker\obj\Debug\Brick Breaker.pdb
+C:\Users\Dell\Downloads\Brick Breaker\Brick Breaker\bin\Debug\Brick Breaker.exe.config
+C:\Users\Dell\Downloads\Brick Breaker\Brick Breaker\bin\Debug\Brick Breaker.exe
+C:\Users\Dell\Downloads\Brick Breaker\Brick Breaker\bin\Debug\Brick Breaker.pdb
+C:\Users\Dell\Downloads\Brick Breaker\Brick Breaker\obj\Debug\Brick Breaker.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\Brick Breaker\Brick Breaker\obj\Debug\Brick Breaker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Downloads\Brick Breaker\Brick Breaker\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Downloads\Brick Breaker\Brick Breaker\obj\Debug\App.g.cs
+C:\Users\Dell\Downloads\Brick Breaker\Brick Breaker\obj\Debug\Brick Breaker_MarkupCompile.cache
+C:\Users\Dell\Downloads\Brick Breaker\Brick Breaker\obj\Debug\Brick Breaker_MarkupCompile.lref
+C:\Users\Dell\Downloads\Brick Breaker\Brick Breaker\obj\Debug\MainWindow.baml
+C:\Users\Dell\Downloads\Brick Breaker\Brick Breaker\obj\Debug\Brick Breaker.g.resources
+C:\Users\Dell\Downloads\Brick Breaker\Brick Breaker\obj\Debug\Brick_Breaker.Properties.Resources.resources
+C:\Users\Dell\Downloads\Brick Breaker\Brick Breaker\obj\Debug\Brick Breaker.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\Brick Breaker\Brick Breaker\obj\Debug\Brick Breaker.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\Brick Breaker\Brick Breaker\obj\Debug\Brick Breaker.exe
+C:\Users\Dell\Downloads\Brick Breaker\Brick Breaker\obj\Debug\Brick Breaker.pdb
