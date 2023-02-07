@@ -1,0 +1,34 @@
+﻿<Window x:Name="Brick_Breeaker" x:Class="Brick_Breaker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Brick_Breaker"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="561.151" Width="378" KeyDown="Window_KeyDown" KeyUp="Window_KeyUp" Background="#FFFEFEFE" Loaded="Brick_Breeaker_Loaded">
+    <Grid x:Name="gridMain" Background="Transparent" Margin="0,0,0,0">
+        <Canvas x:Name="canMain" HorizontalAlignment="Left" Height="449" VerticalAlignment="Top" Width="362" Margin="0,83,0,-0.333">
+            <Canvas.Background>
+                <ImageBrush ImageSource="C:\Users\Dell\Downloads\Brick Breaker\Brick Breaker/bin/Debug/space.jpg"/>
+            </Canvas.Background>
+            <Rectangle x:Name="rectIgrac" Fill="#FF97CE49" Height="17" Stroke="Black" Width="84" Canvas.Left="116" Canvas.Top="395"/>
+            <Rectangle x:Name="elLoptica" Fill="#BF40BF" Height="18" Stroke="Black" Width="18" Canvas.Left="148" Canvas.Top="377" RenderTransformOrigin="0.507,1.077">
+                <Rectangle.LayoutTransform>
+                    <RotateTransform Angle="-45"/>
+                </Rectangle.LayoutTransform>
+            </Rectangle>
+            <Button x:Name="btnReset" Content="Button" Canvas.Left="109" Canvas.Top="254" Width="138" Height="53" Click="btnReset_Click"/>
+        </Canvas>
+        <Canvas x:Name="cnvData" HorizontalAlignment="Left" Height="83" VerticalAlignment="Top" Width="363" Background="#FF21DDC6">
+            <Label Content="Score" Canvas.Left="24" Canvas.Top="10" RenderTransformOrigin="0.491,0.564" Width="63" Height="26" FontWeight="Bold"/>
+            <Label x:Name="lbScore" Content="122" Canvas.Left="24" Canvas.Top="36" Height="37" Width="46" FontSize="22"/>
+            <Label Content="Ball" Canvas.Left="115" Canvas.Top="10" FontWeight="Bold"/>
+            <Label x:Name="lbLifes" Content="4/5" Canvas.Left="108" Canvas.Top="34" Height="37" FontSize="24"/>
+            <Label Content="Best" Canvas.Left="283" Canvas.Top="10" FontWeight="Bold"/>
+            <Label x:Name="lbHighScore" Content="0" Canvas.Left="288" Canvas.Top="34" FontSize="24"/>
+            <Label Content="Level" Canvas.Left="194" Canvas.Top="10" FontWeight="Bold"/>
+            <Label x:Name="lbLevel" Content="1" Canvas.Left="203" Canvas.Top="34" FontSize="24"/>
+        </Canvas>
+
+    </Grid>
+</Window>
